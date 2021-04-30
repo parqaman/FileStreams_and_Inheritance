@@ -1,0 +1,82 @@
+Movies
+12
+Blade
+142
+54349
+Action-Thriller
+2001
+Der Pate
+178
+3268
+Krimi
+1998
+The Dark Knight
+152
+5
+Action
+2005
+SchindlersListe
+197
+24315
+Drama
+2002
+Der Hobbit
+228
+553
+Fantasy
+2004
+Pulp Fiction
+178
+243
+Krimi
+1998
+Inception
+262
+3543
+Action
+2012
+Matrix
+136
+454
+Sci-Fiction
+2015
+Avatar
+162
+4533
+Sci-Fiction
+2014
+Farouq der Zerstoerer
+120
+473
+Action
+2020
+Pokemon
+180
+3
+Anime
+2002
+Upin Ipin
+120
+5
+Adventure
+2020
+Series
+3
+Stranger Things
+40
+5443
+Sci-Fiction
+20
+1
+Game Of Thrones
+66
+5
+SciFi
+45
+2
+Black Mirror
+30
+5
+Horror
+60
+3
